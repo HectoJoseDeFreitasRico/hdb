@@ -9,7 +9,7 @@ int main(int argc, char *argv[]){
 	/*
 	
 		Uso:
-		hdb.exe[operacion][basedadtos][coleccion][operacion][documento][contenido]
+		hdb.exe[operacion][basedadtos][coleccion][documento][contenido]
 	
 	*/
 	
